@@ -1,0 +1,5 @@
+# IDE specific settings
+.vscode/
+
+# Objects
+obj/
